@@ -13,3 +13,7 @@
 - затухание сигнала
 
 ![](https://github.com/MargQ/visual_prog/tree/master/Screenshots/2.jpeg)
+
+## Лабораторная 3
+
+- Произведен рефакторинг
