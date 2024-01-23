@@ -3,7 +3,7 @@
 
 - Добавлены цвета для спектра
 
-![](https://github.com/MargQ/visual_prog/tree/master/Screenshots/1.png)
+<img src = "Screenshots/1.png">
 
 ## Лабораторная 2
 
@@ -12,7 +12,7 @@
 - препятствия
 - затухание сигнала
 
-![](https://github.com/MargQ/visual_prog/tree/master/Screenshots/2.jpeg)
+<img src = "Screenshots/22.png">
 
 ## Лабораторная 3
 
